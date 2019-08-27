@@ -13,8 +13,8 @@ The Lovász-Softmax loss: A tractable surrogate for the optimization of the inte
 
 ### 相关链接
 
-* paper: https://arxiv.org/pdf/1705.08790.pdf
-* github: https://github.com/bermanmaxim/LovaszSoftmax
+* 论文: https://arxiv.org/pdf/1705.08790.pdf
+* 代码: https://github.com/bermanmaxim/LovaszSoftmax
 * 相关参考：
   * 有关语义分割的奇技淫巧有哪些？ - AlexL的回答 - 知乎 https://www.zhihu.com/question/272988870/answer/562262315
   * CVPR 2018：用于图像分割网络的Lovasz loss学习笔记 - JunMa的文章 - 知乎 https://zhuanlan.zhihu.com/p/76825379
@@ -40,3 +40,7 @@ Generalised Dice overlap as a deep learning loss function for highly unbalanced 
 **Generalized Dice Loss (GDL)**
 
 ![](https://user-images.githubusercontent.com/26847524/63738443-5e1ee280-c8bc-11e9-9d1e-3c8d2702032c.png)
+
+### 相关链接
+
+* 论文：https://arxiv.org/pdf/1707.03237.pdf
